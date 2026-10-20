@@ -1,0 +1,18 @@
+print("Namste me tumahara chatbot hu. Hello!")
+while True:
+    a=input("Tum bolo :")
+    if a =="hello":
+        print("Bot : hello bro")
+    elif a =="aapka name":
+         print("Bot: Mai python chatbot hu. aapka name kya he :")
+    elif a=="veer verma":
+         print("ha bhai veer . How are you") 
+    elif a=="i am fine":
+         print("padai kesi chal rahi he") 
+    elif a=="achhi chal rahi he":
+         print("acchi padai karte raho 95+ % banana he aapko")
+    elif a =="bye":
+         print("Bye bhai! Fir milte he ")
+         break
+    else:
+        print("mujhe ye abhi samjh nahi aaya")        
